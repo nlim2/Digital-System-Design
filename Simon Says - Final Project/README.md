@@ -26,4 +26,4 @@ Video demonstration: https://youtu.be/Uxufg6dHAYA
 
 4. Continue this process of watching the pattern and repeating the pattern until you fail or reach level 15.
 
-5. Once you fail or reach level 15, the display will read end and turn back to begn.
+5. Once you fail/reach level 15, the display will read Fail/end and turn back to begn.
