@@ -18,9 +18,11 @@ Video demonstration: https://youtu.be/Uxufg6dHAYA
 
 1. To start the game, press the middle button when the display says begn.
 
-2. The right two anodes will display a pattern using two segments indicating top, bottom, left, or right.
+2. The left two anodes will display the level while the right two anodes will display a pattern using two segments indicating top, bottom, left, or right.
 
 3. After the pattern is shown, repeat the pattern into the corresponding buttons.
+
+4. Successfully repeating the pattern will advance you to the next level. 
 
 4. Continue this process of watching the pattern and repeating the pattern until you fail or reach level 15.
 
